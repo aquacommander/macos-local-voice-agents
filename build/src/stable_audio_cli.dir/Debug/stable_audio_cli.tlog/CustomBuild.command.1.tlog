@@ -1,0 +1,10 @@
+^C:\STABLE-AUDIO-LOOP-APP\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/stable-audio-loop-app -BC:/stable-audio-loop-app/build --check-stamp-file C:/stable-audio-loop-app/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

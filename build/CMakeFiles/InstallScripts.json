@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/stable-audio-loop-app/build/cmake_install.cmake",
+		"C:/stable-audio-loop-app/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

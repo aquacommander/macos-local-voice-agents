@@ -1,0 +1,5 @@
+C:/stable-audio-loop-app/build/CMakeFiles/ALL_BUILD.dir
+C:/stable-audio-loop-app/build/CMakeFiles/ZERO_CHECK.dir
+C:/stable-audio-loop-app/build/src/CMakeFiles/stable_audio_core.dir
+C:/stable-audio-loop-app/build/src/CMakeFiles/stable_audio_desktop.dir
+C:/stable-audio-loop-app/build/src/CMakeFiles/stable_audio_cli.dir
