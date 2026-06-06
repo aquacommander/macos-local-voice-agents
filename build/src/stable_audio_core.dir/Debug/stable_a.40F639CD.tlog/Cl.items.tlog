@@ -1,6 +1,0 @@
-C:\stable-audio-loop-app\src\app\AppConfig.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\AppConfig.obj
-C:\stable-audio-loop-app\src\core\GenerationConfig.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\GenerationConfig.obj
-C:\stable-audio-loop-app\src\core\StableAudioEngine.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\StableAudioEngine.obj
-C:\stable-audio-loop-app\src\core\ModelBackendDummy.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\ModelBackendDummy.obj
-C:\stable-audio-loop-app\src\core\ModelBackendOnnx.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\ModelBackendOnnx.obj
-C:\stable-audio-loop-app\src\audio\AudioFileWriter.cpp;C:\stable-audio-loop-app\build\src\stable_audio_core.dir\Debug\AudioFileWriter.obj

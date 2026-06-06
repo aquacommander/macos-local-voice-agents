@@ -1,8 +1,0 @@
-{
-    "model_type": "onnx",              
-    "model_path": "models/stable-audio-open-small.onnx",
-    "sample_rate": 44100.0,
-    "default_duration_seconds": 8.0,
-    "output_dir": "output"
-  }
-  
